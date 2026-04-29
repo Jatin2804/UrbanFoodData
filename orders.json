@@ -1,3 +1,1 @@
-{
-  "orders": []
-}
+{"orders":[{"userId":"user_1776949911200","dishes":[{"dishId":"dish_023","name":"Thai Green Curry","price":360,"quantity":1},{"dishId":"dish_007","name":"Chole Bhature","price":180,"quantity":1}],"paymentType":"cod","status":"pending","userAddress":"Address not available","estimatedTime":"2026-04-29T17:14:42.434Z","totalPrice":540,"discount":0,"finalPrice":580,"offerId":null,"orderId":"order_1777482762478","orderTime":"2026-04-29T17:12:42.478Z"}]}
