@@ -1,3 +1,1 @@
-{
-  "orders": []
-}
+{"orders":[{"type":"cod","dishes":[{"dishId":"dish_001","name":"Butter Chicken","price":320,"quantity":1}],"totalPrice":320,"finalPrice":320,"discount":0,"offerId":"offer_first3","userId":"user_1776949911200","dateOfOrder":"2026-04-29","timeOfOrder":"2026-04-29T11:30:23.437Z","status":"pending","estimatedDeliveryTime":"2026-04-29T12:00:23.437Z","orderId":"ORD1777462223439"}]}
