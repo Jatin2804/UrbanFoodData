@@ -1,5 +1,1 @@
-{
-  "orders": [
-    
-  ]
-}
+{"orders":[{"type":"cod","dishes":[{"dishId":"dish_003","name":"Dal Makhani","price":220,"quantity":1},{"dishId":"dish_001","name":"Butter Chicken","price":320,"quantity":1},{"dishId":"dish_002","name":"Paneer Tikka Masala","price":280,"quantity":1},{"dishId":"dish_004","name":"Chicken Biryani","price":350,"quantity":1}],"totalPrice":1170,"finalPrice":1170,"discount":0,"offerId":"offer_first3","userId":"user_1776949911200","dateOfOrder":"2026-04-29","timeOfOrder":"2026-04-29T10:52:03.443Z","status":"pending","estimatedDeliveryTime":"2026-04-29T11:22:03.443Z","orderId":"ORD1777459923448"}]}
