@@ -1,3 +1,1 @@
-{
-  "orders": []
-}
+{"orders":[{"userId":"user_1776949911200","dishes":[{"dishId":"dish_001","name":"Butter Chicken","price":320,"quantity":1},{"dishId":"dish_002","name":"Paneer Tikka Masala","price":280,"quantity":1}],"paymentType":"cod","status":"pending","userAddress":"608, HSR Layout, Bengaluru, HSR Layout, Bengaluru","estimatedTime":"2026-04-29T16:05:48.731Z","totalPrice":600,"discount":0,"finalPrice":640,"offerId":null,"orderId":"order_1777478629174","orderTime":"2026-04-29T16:03:49.174Z"}]}
