@@ -1,3 +1,1 @@
-{
-  "bookings": []
-}
+{"bookings":[{"bookingId":"booking_1777542807668_77r28pgq9","userId":"user_1776949911200","tableId":"table_4","tableNumber":4,"timeSlot":"5min","bookingTime":"2026-04-30T09:53:27.668Z","status":"active","createdAt":"2026-04-30T09:53:27.668Z","dishes":[{"dishId":"dish_023","name":"Thai Green Curry","price":360,"quantity":1},{"dishId":"dish_007","name":"Chole Bhature","price":180,"quantity":1},{"dishId":"dish_012","name":"Fish Curry","price":340,"quantity":1}]}]}
