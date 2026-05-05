@@ -19,7 +19,18 @@
     "failed": "Failed",
     "total": "Total",
     "refresh": "Refresh",
-    "clearAll": "Clear All"
+    "clearAll": "Clear All",
+    "remove": "Remove",
+    "clear": "Clear",
+    "apply": "Apply",
+    "applying": "Applying...",
+    "price": "Price",
+    "seeAll": "See all",
+    "add": "Add",
+    "new": "NEW",
+    "track": "Track",
+    "viewCart": "View Cart",
+    "orderItems": "Order Items"
   },
   "auth": {
     "login": "Login",
@@ -51,6 +62,7 @@
   },
   "settings": {
     "title": "Settings",
+    "navTitle": "Settings",
     "language": "Language",
     "selectLanguage": "Select Language",
     "security": "Security",
@@ -66,21 +78,38 @@
     "restartMessage": "The app needs to restart to apply the language change. Restart now?",
     "restartNow": "Restart Now",
     "restartLater": "Later",
-    "authentication": "Authentication"
+    "authentication": "Authentication",
+    "failedToChangeLanguage": "Failed to change language. Please try again."
   },
   "splash": {
     "appName": "Urban Food",
     "tagline": "Fresh. Fast. Delicious."
   },
   "home": {
-    "greeting": "Hello, {name}!",
+    "greeting": "Hey, {name}",
+    "greetingFirstName": "Hey, {firstName}",
+    "cravingToday": "What are you craving today?",
     "searchPlaceholder": "Search dishes, cuisines...",
     "newArrivals": "New Arrivals",
     "newArrivalsSubtitle": "Added after Jan 10, 2025",
     "topRated": "Top Rated",
     "topRatedSubtitle": "Rating above 4.5 ★",
     "exploreMenu": "Explore Menu",
-    "viewAll": "View All"
+    "viewAll": "View All",
+    "seeAll": "See all",
+    "deliveryTo": "DELIVERY TO",
+    "activeOrders": "Active Orders",
+    "arrivingNow": "🎉 Arriving now!",
+    "arrivingIn": "⏱ Arriving in {time}"
+  },
+  "restaurantCard": {
+    "open": "Open",
+    "closed": "Closed",
+    "rating": "Rating",
+    "customers": "Customers",
+    "delivery": "Delivery",
+    "minOrder": "Min. order ₹{amount}",
+    "ratings": "ratings"
   },
   "explore": {
     "title": "Explore",
@@ -91,25 +120,31 @@
     "veg": "Veg",
     "nonVeg": "Non-Veg",
     "sortBy": "Sort By",
+    "sortAndFilter": "Sort & Filter",
+    "filter": "Filter",
     "filters": "Filters",
     "lowToHigh": "Price: Low to High",
     "highToLow": "Price: High to Low",
     "topRated": "Top Rated",
-    "clearFilters": "Clear Filters"
+    "default": "Default",
+    "clearFilters": "Clear Filters",
+    "clearSort": "Clear Sort"
   },
   "cart": {
-    "title": "Cart",
-    "emptyCart": "Your cart is empty",
-    "emptyCartMessage": "Add some delicious dishes to get started!",
+    "title": "My Cart",
+    "emptyCart": "Cart is empty",
+    "emptyCartMessage": "Browse dishes in Explore and add them to your cart",
     "startShopping": "Start Shopping",
     "itemTotal": "Item total",
     "deliveryFee": "Delivery fee",
     "discount": "Discount",
     "total": "Total",
     "totalPayable": "Total payable",
+    "toPay": "To pay",
     "addToCart": "Add to Cart",
     "removeFromCart": "Remove from cart",
     "clearCart": "Clear Cart",
+    "clearAll": "Clear all",
     "removeItem": "Remove Item",
     "removeThisItem": "Remove this item from cart?",
     "removeAllItems": "Remove all items?",
@@ -120,22 +155,36 @@
     "item": "item",
     "loadingCart": "Loading your cart...",
     "applyOffer": "Apply Offer",
+    "offerApplied": "Offer Applied",
     "removeOffer": "Remove Offer",
+    "availableOffers": "Available Offers",
     "cannotApply": "Cannot Apply",
     "failedToApplyOffer": "Failed to apply offer",
     "selectOrderType": "Select Order Type",
+    "howWouldYouLikeToOrder": "How would you like to order?",
+    "chooseDiningOption": "Choose your preferred dining option",
     "dineIn": "Dine In",
     "dineInDescription": "Book a table and enjoy at restaurant",
+    "bookATable": "Book a table",
     "cashOnDelivery": "Cash on Delivery",
-    "cashOnDeliveryDescription": "Pay when your order arrives"
+    "cashOnDeliveryDescription": "Pay when your order arrives",
+    "payAtYourDoor": "Pay at your door",
+    "offerSaving": "{code} — saving ₹{amount}",
+    "eligible": "✓ Eligible — saves {discount}",
+    "minOrderRequired": "Min. order ₹{amount} required",
+    "percentOff": "{value}% off",
+    "amountOff": "₹{value} off",
+    "billDetails": "Bill Details"
   },
   "dish": {
     "dishNotFound": "Dish not found",
     "goBack": "Go back",
     "reviews": "Reviews",
+    "reviewsCount": "Reviews ({count})",
     "noReviews": "No reviews yet",
     "rating": "Rating",
-    "addedOn": "Added on"
+    "addedOn": "Added on",
+    "price": "Price"
   },
   "checkout": {
     "title": "Checkout",
@@ -156,7 +205,8 @@
     "confirming": "Confirming...",
     "orderFailed": "Order Failed",
     "failedToPlaceOrder": "Failed to place your order. Please try again.",
-    "yourCartIsEmpty": "Your cart is empty"
+    "yourCartIsEmpty": "Your cart is empty",
+    "refresh": "Refresh"
   },
   "orderSuccess": {
     "title": "Order Confirmed!",
@@ -175,7 +225,9 @@
     "inProgress": "In Progress",
     "delivered": "Delivered",
     "cancelled": "Cancelled",
-    "track": "Track"
+    "track": "Track",
+    "moreItems": "+{count} more item",
+    "moreItemsPlural": "+{count} more items"
   },
   "delivery": {
     "trackingOrder": "Tracking Order",
@@ -190,7 +242,9 @@
     "orderDelivered": "Order Delivered! Enjoy your meal 🎉",
     "restaurant": "Restaurant",
     "deliveryLocation": "Delivery Location",
-    "yourAddress": "Your address"
+    "yourAddress": "Your address",
+    "arrivingNow": "Arriving now",
+    "minAway": "{eta} min away"
   },
   "dineIn": {
     "title": "Dine In",
@@ -198,6 +252,10 @@
     "myBookings": "My Bookings",
     "selectTimeSlot": "Select Time Slot",
     "selectTable": "Select Table",
+    "fiveMinutes": "5 Minutes",
+    "tenMinutes": "10 Minutes",
+    "fiveMinutesShort": "5 minutes",
+    "tenMinutesShort": "10 minutes",
     "minutes": "Minutes",
     "available": "Available",
     "booked": "Booked",
@@ -213,9 +271,14 @@
     "noBookingsYet": "No Bookings Yet",
     "noBookingsMessage": "Book a table to see your reservations here",
     "tableNumber": "Table Number",
+    "tableLabel": "Table {number}",
     "duration": "Duration",
     "date": "Date",
-    "time": "Time"
+    "time": "Time",
+    "seats": "{count} seats",
+    "orderItems": "Order Items",
+    "active": "Active",
+    "cancelled": "Cancelled"
   },
   "bookingSuccess": {
     "title": "Booking Confirmed!",
@@ -235,11 +298,16 @@
     "profile": "Profile",
     "myOrders": "My Orders",
     "dineIn": "Dine In",
+    "favourites": "Favourites",
+    "addresses": "Addresses",
     "settings": "Settings",
+    "helpAndSupport": "Help & Support",
     "logout": "Logout",
     "logoutConfirm": "Are you sure you want to logout?",
     "version": "Version",
-    "contactInfo": "Contact Information"
+    "contactInfo": "Contact Information",
+    "email": "Email",
+    "phone": "Phone"
   },
   "notifications": {
     "title": "Notifications",
@@ -256,5 +324,11 @@
     "success": "Success",
     "warning": "Warning",
     "info": "Info"
+  },
+  "tabs": {
+    "home": "Home",
+    "explore": "Explore",
+    "cart": "Cart",
+    "account": "Account"
   }
 }
