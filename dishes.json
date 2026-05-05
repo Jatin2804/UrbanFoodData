@@ -1,9 +1,19 @@
 {
-    "dishes": [
+  "dishes": [
     {
       "id": "dish_001",
-      "name": "Butter Chicken",
-      "type": "main course",
+      "name": {
+        "en": "Butter Chicken",
+        "hi": "बटर चिकन",
+        "te": "బట్టర్ చికెన్",
+        "kn": "ಬಟರ್ ಚಿಕನ್"
+      },
+      "type": {
+        "en": "Main Course",
+        "hi": "मुख्य व्यंजन",
+        "te": "ప్రధాన వంటకం",
+        "kn": "ಮುಖ್ಯ ಪದಾರ್ಥ"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?w=600&h=400&fit=crop&auto=format&q=80",
@@ -43,8 +53,18 @@
     },
     {
       "id": "dish_002",
-      "name": "Paneer Tikka Masala",
-      "type": "main course",
+      "name": {
+        "en": "Paneer Tikka Masala",
+        "hi": "पनीर टिक्का मसाला",
+        "te": "పనీర్ టిక్కా మసాలా",
+        "kn": "ಪನೀರ್ ಟಿಕ್ಕಾ ಮಸಾಲ"
+      },
+      "type": {
+        "en": "Main Course",
+        "hi": "मुख्य व्यंजन",
+        "te": "ప్రధాన వంటకం",
+        "kn": "ಮುಖ್ಯ ಪದಾರ್ಥ"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=600&h=400&fit=crop&auto=format&q=80",
@@ -74,8 +94,18 @@
     },
     {
       "id": "dish_003",
-      "name": "Dal Makhani",
-      "type": "main course",
+      "name": {
+        "en": "Dal Makhani",
+        "hi": "दाल मखनी",
+        "te": "దాల్ మఖనీ",
+        "kn": "ದಾಲ್ ಮಖನಿ"
+      },
+      "type": {
+        "en": "Main Course",
+        "hi": "मुख्य व्यंजन",
+        "te": "ప్రధాన వంటకం",
+        "kn": "ಮುಖ್ಯ ಪದಾರ್ಥ"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=600&h=400&fit=crop&auto=format&q=80",
@@ -105,8 +135,18 @@
     },
     {
       "id": "dish_004",
-      "name": "Chicken Biryani",
-      "type": "main course",
+      "name": {
+        "en": "Chicken Biryani",
+        "hi": "चिकन बिरयानी",
+        "te": "చికెన్ బిర్యానీ",
+        "kn": "ಚಿಕನ್ ಬಿರಿಯಾನಿ"
+      },
+      "type": {
+        "en": "Main Course",
+        "hi": "मुख्य व्यंजन",
+        "te": "ప్రధాన వంటకం",
+        "kn": "ಮುಖ್ಯ ಪದಾರ್ಥ"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?w=600&h=400&fit=crop&auto=format&q=80",
@@ -131,8 +171,18 @@
     },
     {
       "id": "dish_005",
-      "name": "Palak Paneer",
-      "type": "main course",
+      "name": {
+        "en": "Palak Paneer",
+        "hi": "पालक पनीर",
+        "te": "పాలక్ పనీర్",
+        "kn": "ಪಾಲಕ್ ಪನೀರ್"
+      },
+      "type": {
+        "en": "Main Course",
+        "hi": "मुख्य व्यंजन",
+        "te": "ప్రధాన వంటకం",
+        "kn": "ಮುಖ್ಯ ಪದಾರ್ಥ"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=600&h=400&fit=crop&auto=format&q=80",
@@ -162,8 +212,18 @@
     },
     {
       "id": "dish_006",
-      "name": "Mutton Rogan Josh",
-      "type": "main course",
+      "name": {
+        "en": "Mutton Rogan Josh",
+        "hi": "मटन रोगन जोश",
+        "te": "మటన్ రోగన్ జోష్",
+        "kn": "ಮಟನ್ ರೋಗನ್ ಜೋಶ್"
+      },
+      "type": {
+        "en": "Main Course",
+        "hi": "मुख्य व्यंजन",
+        "te": "ప్రధాన వంటకం",
+        "kn": "ಮುಖ್ಯ ಪದಾರ್ಥ"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1545247181-516773cae754?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1545247181-516773cae754?w=600&h=400&fit=crop&auto=format&q=80",
@@ -188,8 +248,18 @@
     },
     {
       "id": "dish_007",
-      "name": "Chole Bhature",
-      "type": "main course",
+      "name": {
+        "en": "Chole Bhature",
+        "hi": "छोले भटूरे",
+        "te": "ఛోలే భటూరే",
+        "kn": "ಛೋಲೆ ಭಟೂರೆ"
+      },
+      "type": {
+        "en": "Main Course",
+        "hi": "मुख्य व्यंजन",
+        "te": "ప్రధాన వంటకం",
+        "kn": "ಮುಖ್ಯ ಪದಾರ್ಥ"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1626132647523-66068394d31c?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1626132647523-66068394d31c?w=600&h=400&fit=crop&auto=format&q=80",
@@ -214,8 +284,18 @@
     },
     {
       "id": "dish_008",
-      "name": "Egg Curry",
-      "type": "main course",
+      "name": {
+        "en": "Egg Curry",
+        "hi": "अंडा करी",
+        "te": "ఎగ్ కర్రీ",
+        "kn": "ಎಗ್ ಕರಿ"
+      },
+      "type": {
+        "en": "Main Course",
+        "hi": "मुख्य व्यंजन",
+        "te": "ప్రధాన వంటకం",
+        "kn": "ಮುಖ್ಯ ಪದಾರ್ಥ"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=600&h=400&fit=crop&auto=format&q=80",
@@ -255,8 +335,18 @@
     },
     {
       "id": "dish_009",
-      "name": "Rajma Chawal",
-      "type": "main course",
+      "name": {
+        "en": "Rajma Chawal",
+        "hi": "राजमा चावल",
+        "te": "రాజ్మా చావల్",
+        "kn": "ರಾಜ್ಮಾ ಚಾವಲ್"
+      },
+      "type": {
+        "en": "Main Course",
+        "hi": "मुख्य व्यंजन",
+        "te": "ప్రధాన వంటకం",
+        "kn": "ಮುಖ್ಯ ಪದಾರ್ಥ"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=600&h=400&fit=crop&auto=format&q=80",
@@ -286,8 +376,18 @@
     },
     {
       "id": "dish_010",
-      "name": "Kadai Chicken",
-      "type": "main course",
+      "name": {
+        "en": "Kadai Chicken",
+        "hi": "कड़ाई चिकन",
+        "te": "కడాయ్ చికెన్",
+        "kn": "ಕಡಾಯ್ ಚಿಕನ್"
+      },
+      "type": {
+        "en": "Main Course",
+        "hi": "मुख्य व्यंजन",
+        "te": "ప్రధాన వంటకం",
+        "kn": "ಮುಖ್ಯ ಪದಾರ್ಥ"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1610057099431-d73a1c9d2f2f?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1610057099431-d73a1c9d2f2f?w=600&h=400&fit=crop&auto=format&q=80",
@@ -327,8 +427,18 @@
     },
     {
       "id": "dish_011",
-      "name": "Malai Kofta",
-      "type": "main course",
+      "name": {
+        "en": "Malai Kofta",
+        "hi": "मलाई कोफ्ता",
+        "te": "మలాయ్ కోఫ్తా",
+        "kn": "ಮಲಾಯ್ ಕೊಫ್ತಾ"
+      },
+      "type": {
+        "en": "Main Course",
+        "hi": "मुख्य व्यंजन",
+        "te": "ప్రధాన వంటకం",
+        "kn": "ಮುಖ್ಯ ಪದಾರ್ಥ"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1574484284002-952d92456975?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1574484284002-952d92456975?w=600&h=400&fit=crop&auto=format&q=80",
@@ -363,8 +473,18 @@
     },
     {
       "id": "dish_012",
-      "name": "Fish Curry",
-      "type": "main course",
+      "name": {
+        "en": "Fish Curry",
+        "hi": "मछली करी",
+        "te": "చేప కర్రీ",
+        "kn": "ಮೀನು ಕರಿ"
+      },
+      "type": {
+        "en": "Main Course",
+        "hi": "मुख्य व्यंजन",
+        "te": "ప్రధాన వంటకం",
+        "kn": "ಮುಖ್ಯ ಪದಾರ್ಥ"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?w=600&h=400&fit=crop&auto=format&q=80",
@@ -404,8 +524,18 @@
     },
     {
       "id": "dish_013",
-      "name": "Paneer Butter Masala",
-      "type": "main course",
+      "name": {
+        "en": "Paneer Butter Masala",
+        "hi": "पनीर बटर मसाला",
+        "te": "పనీర్ బటర్ మసాలా",
+        "kn": "ಪನೀರ್ ಬಟರ್ ಮಸಾಲ"
+      },
+      "type": {
+        "en": "Main Course",
+        "hi": "मुख्य व्यंजन",
+        "te": "ప్రధాన వంటకం",
+        "kn": "ಮುಖ್ಯ ಪದಾರ್ಥ"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?w=600&h=400&fit=crop&auto=format&q=80",
@@ -430,8 +560,18 @@
     },
     {
       "id": "dish_014",
-      "name": "Hyderabadi Dum Biryani",
-      "type": "main course",
+      "name": {
+        "en": "Hyderabadi Dum Biryani",
+        "hi": "हैदराबादी दम बिरयानी",
+        "te": "హైదరాబాదీ దమ్ బిర్యానీ",
+        "kn": "ಹೈದರಾಬಾದಿ ದಮ್ ಬಿರಿಯಾನಿ"
+      },
+      "type": {
+        "en": "Main Course",
+        "hi": "मुख्य व्यंजन",
+        "te": "ప్రధాన వంటకం",
+        "kn": "ಮುಖ್ಯ ಪದಾರ್ಥ"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1589302168068-964664d93dc0?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1589302168068-964664d93dc0?w=600&h=400&fit=crop&auto=format&q=80",
@@ -456,8 +596,18 @@
     },
     {
       "id": "dish_015",
-      "name": "Aloo Gobi",
-      "type": "main course",
+      "name": {
+        "en": "Aloo Gobi",
+        "hi": "आलू गोभी",
+        "te": "ఆలూ గోబీ",
+        "kn": "ಆಲೂ ಗೋಬಿ"
+      },
+      "type": {
+        "en": "Main Course",
+        "hi": "मुख्य व्यंजन",
+        "te": "ప్రధాన వంటకం",
+        "kn": "ಮುಖ್ಯ ಪದಾರ್ಥ"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=600&h=400&fit=crop&auto=format&q=80",
@@ -497,8 +647,18 @@
     },
     {
       "id": "dish_016",
-      "name": "Chicken Tikka Masala",
-      "type": "main course",
+      "name": {
+        "en": "Chicken Tikka Masala",
+        "hi": "चिकन टिक्का मसाला",
+        "te": "చికెన్ టిక్కా మసాలా",
+        "kn": "ಚಿಕನ್ ಟಿಕ್ಕಾ ಮಸಾಲ"
+      },
+      "type": {
+        "en": "Main Course",
+        "hi": "मुख्य व्यंजन",
+        "te": "ప్రధాన వంటకం",
+        "kn": "ಮುಖ್ಯ ಪದಾರ್ಥ"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=600&h=400&fit=crop&auto=format&q=80",
@@ -533,8 +693,18 @@
     },
     {
       "id": "dish_017",
-      "name": "Baingan Bharta",
-      "type": "main course",
+      "name": {
+        "en": "Baingan Bharta",
+        "hi": "बैंगन भरता",
+        "te": "బైంగన్ భర్తా",
+        "kn": "ಬೈಂಗನ್ ಭರ್ತಾ"
+      },
+      "type": {
+        "en": "Main Course",
+        "hi": "मुख्य व्यंजन",
+        "te": "ప్రధాన వంటకం",
+        "kn": "ಮುಖ್ಯ ಪದಾರ್ಥ"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1574484284002-952d92456975?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1574484284002-952d92456975?w=600&h=400&fit=crop&auto=format&q=80",
@@ -574,8 +744,18 @@
     },
     {
       "id": "dish_018",
-      "name": "Prawn Masala",
-      "type": "main course",
+      "name": {
+        "en": "Prawn Masala",
+        "hi": "प्रॉन मसाला",
+        "te": "రొయ్యల మసాలా",
+        "kn": "ಸೀಗಡಿ ಮಸಾಲ"
+      },
+      "type": {
+        "en": "Main Course",
+        "hi": "मुख्य व्यंजन",
+        "te": "ప్రధాన వంటకం",
+        "kn": "ಮುಖ್ಯ ಪದಾರ್ಥ"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?w=600&h=400&fit=crop&auto=format&q=80",
@@ -600,8 +780,18 @@
     },
     {
       "id": "dish_019",
-      "name": "Margherita Pizza",
-      "type": "main course",
+      "name": {
+        "en": "Margherita Pizza",
+        "hi": "मार्गेरिटा पिज्जा",
+        "te": "మార్గెరిటా పిజ్జా",
+        "kn": "ಮಾರ್ಗೆರಿಟಾ ಪಿಜ್ಜಾ"
+      },
+      "type": {
+        "en": "Main Course",
+        "hi": "मुख्य व्यंजन",
+        "te": "ప్రధాన వంటకం",
+        "kn": "ಮುಖ್ಯ ಪದಾರ್ಥ"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=600&h=400&fit=crop&auto=format&q=80",
@@ -641,8 +831,18 @@
     },
     {
       "id": "dish_020",
-      "name": "Grilled Chicken Pasta",
-      "type": "main course",
+      "name": {
+        "en": "Grilled Chicken Pasta",
+        "hi": "ग्रिल्ड चिकन पास्ता",
+        "te": "గ్రిల్ల్డ్ చికెన్ పాస్తా",
+        "kn": "ಗ್ರಿಲ್ಡ್ ಚಿಕನ್ ಪಾಸ್ತಾ"
+      },
+      "type": {
+        "en": "Main Course",
+        "hi": "मुख्य व्यंजन",
+        "te": "ప్రధాన వంటకం",
+        "kn": "ಮುಖ್ಯ ಪದಾರ್ಥ"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?w=600&h=400&fit=crop&auto=format&q=80",
@@ -682,8 +882,18 @@
     },
     {
       "id": "dish_021",
-      "name": "Spaghetti Bolognese",
-      "type": "main course",
+      "name": {
+        "en": "Spaghetti Bolognese",
+        "hi": "स्पेगेटी बोलोग्नीज़",
+        "te": "స్పఘెట్టి బొలోగ్నీస్",
+        "kn": "ಸ್ಪಘೆಟ್ಟಿ ಬೊಲೊಗ್ನೀಸ್"
+      },
+      "type": {
+        "en": "Main Course",
+        "hi": "मुख्य व्यंजन",
+        "te": "ప్రధాన వంటకం",
+        "kn": "ಮುಖ್ಯ ಪದಾರ್ಥ"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1622973536968-3ead9e780960?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1622973536968-3ead9e780960?w=600&h=400&fit=crop&auto=format&q=80",
@@ -723,8 +933,18 @@
     },
     {
       "id": "dish_022",
-      "name": "Mushroom Risotto",
-      "type": "main course",
+      "name": {
+        "en": "Mushroom Risotto",
+        "hi": "मशरूम रिसोट्टो",
+        "te": "మష్రూమ్ రిసోట్టో",
+        "kn": "ಮಶ್ರೂಮ್ ರಿಸೋಟ್ಟೊ"
+      },
+      "type": {
+        "en": "Main Course",
+        "hi": "मुख्य व्यंजन",
+        "te": "ప్రధాన వంటకం",
+        "kn": "ಮುಖ್ಯ ಪದಾರ್ಥ"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1476124369491-e7addf5db371?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1476124369491-e7addf5db371?w=600&h=400&fit=crop&auto=format&q=80",
@@ -754,8 +974,18 @@
     },
     {
       "id": "dish_023",
-      "name": "Thai Green Curry",
-      "type": "main course",
+      "name": {
+        "en": "Thai Green Curry",
+        "hi": "थाई ग्रीन करी",
+        "te": "థాయ్ గ్రీన్ కర్రీ",
+        "kn": "ಥಾಯ್ ಗ್ರೀನ್ ಕರಿ"
+      },
+      "type": {
+        "en": "Main Course",
+        "hi": "मुख्य व्यंजन",
+        "te": "ప్రధాన వంటకం",
+        "kn": "ಮುಖ್ಯ ಪದಾರ್ಥ"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?w=600&h=400&fit=crop&auto=format&q=80",
@@ -780,8 +1010,18 @@
     },
     {
       "id": "dish_024",
-      "name": "Pad Thai Noodles",
-      "type": "main course",
+      "name": {
+        "en": "Pad Thai Noodles",
+        "hi": "पैड थाई नूडल्स",
+        "te": "ప్యాడ్ థాయ్ నూడుల్స్",
+        "kn": "ಪ್ಯಾಡ್ ಥಾಯ್ ನೂಡಲ್ಸ್"
+      },
+      "type": {
+        "en": "Main Course",
+        "hi": "मुख्य व्यंजन",
+        "te": "ప్రధాన వంటకం",
+        "kn": "ಮುಖ್ಯ ಪದಾರ್ಥ"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1559314809-0d155014e29e?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1559314809-0d155014e29e?w=600&h=400&fit=crop&auto=format&q=80",
@@ -821,8 +1061,18 @@
     },
     {
       "id": "dish_025",
-      "name": "Penne Arrabiata",
-      "type": "main course",
+      "name": {
+        "en": "Penne Arrabiata",
+        "hi": "पेन्ने अरबियाता",
+        "te": "పెన్నే అర్రాబియాటా",
+        "kn": "ಪೆನ್ನೆ ಅರ್ರಾಬಿಯಾಟಾ"
+      },
+      "type": {
+        "en": "Main Course",
+        "hi": "मुख्य व्यंजन",
+        "te": "ప్రధాన వంటకం",
+        "kn": "ಮುಖ್ಯ ಪದಾರ್ಥ"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1563379926898-05f4575a45d8?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1563379926898-05f4575a45d8?w=600&h=400&fit=crop&auto=format&q=80",
@@ -862,8 +1112,18 @@
     },
     {
       "id": "dish_026",
-      "name": "Paneer Tikka",
-      "type": "starter",
+      "name": {
+        "en": "Paneer Tikka",
+        "hi": "पनीर टिक्का",
+        "te": "పనీర్ టిక్కా",
+        "kn": "ಪನೀರ್ ಟಿಕ್ಕಾ"
+      },
+      "type": {
+        "en": "Starter",
+        "hi": "स्टार्टर",
+        "te": "స్టార్టర్",
+        "kn": "ಸ್ಟಾರ್ಟರ್"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1567188040759-fb8a883dc6d8?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1567188040759-fb8a883dc6d8?w=600&h=400&fit=crop&auto=format&q=80",
@@ -898,8 +1158,18 @@
     },
     {
       "id": "dish_027",
-      "name": "Chicken Seekh Kebab",
-      "type": "starter",
+      "name": {
+        "en": "Chicken Seekh Kebab",
+        "hi": "चिकन सीख कबाब",
+        "te": "చికెన్ సీఖ్ కబాబ్",
+        "kn": "ಚಿಕನ್ ಸೀಖ್ ಕಬಾಬ್"
+      },
+      "type": {
+        "en": "Starter",
+        "hi": "स्टार्टर",
+        "te": "స్టార్టర్",
+        "kn": "ಸ್ಟಾರ್ಟರ್"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?w=600&h=400&fit=crop&auto=format&q=80",
@@ -924,8 +1194,18 @@
     },
     {
       "id": "dish_028",
-      "name": "Samosa",
-      "type": "starter",
+      "name": {
+        "en": "Samosa",
+        "hi": "समोसा",
+        "te": "సమోసా",
+        "kn": "ಸಮೋಸಾ"
+      },
+      "type": {
+        "en": "Starter",
+        "hi": "स्टार्टर",
+        "te": "స్టార్టర్",
+        "kn": "ಸ್ಟಾರ್ಟರ್"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=600&h=400&fit=crop&auto=format&q=80",
@@ -960,8 +1240,18 @@
     },
     {
       "id": "dish_029",
-      "name": "Onion Bhaji",
-      "type": "starter",
+      "name": {
+        "en": "Onion Bhaji",
+        "hi": "प्याज भाजी",
+        "te": "ఉల్లిపాయ భాజీ",
+        "kn": "ಈರುಳ್ಳಿ ಭಾಜಿ"
+      },
+      "type": {
+        "en": "Starter",
+        "hi": "स्टार्टर",
+        "te": "స్టార్టర్",
+        "kn": "ಸ್ಟಾರ್ಟರ್"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1625220194771-7ebdea0b70b9?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1625220194771-7ebdea0b70b9?w=600&h=400&fit=crop&auto=format&q=80",
@@ -986,8 +1276,18 @@
     },
     {
       "id": "dish_030",
-      "name": "Tandoori Chicken",
-      "type": "starter",
+      "name": {
+        "en": "Tandoori Chicken",
+        "hi": "तंदूरी चिकन",
+        "te": "తందూరి చికెన్",
+        "kn": "ತಂದೂರಿ ಚಿಕನ್"
+      },
+      "type": {
+        "en": "Starter",
+        "hi": "स्टार्टर",
+        "te": "స్టార్టర్",
+        "kn": "ಸ್ಟಾರ್ಟರ್"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1610057099431-d73a1c9d2f2f?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1610057099431-d73a1c9d2f2f?w=600&h=400&fit=crop&auto=format&q=80",
@@ -1022,8 +1322,18 @@
     },
     {
       "id": "dish_031",
-      "name": "Hara Bhara Kebab",
-      "type": "starter",
+      "name": {
+        "en": "Hara Bhara Kebab",
+        "hi": "हरा भरा कबाब",
+        "te": "హరా భరా కబాబ్",
+        "kn": "ಹರಾ ಭರಾ ಕಬಾಬ್"
+      },
+      "type": {
+        "en": "Starter",
+        "hi": "स्टार्टर",
+        "te": "స్టార్టర్",
+        "kn": "ಸ್ಟಾರ್ಟರ್"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1567188040759-fb8a883dc6d8?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1567188040759-fb8a883dc6d8?w=600&h=400&fit=crop&auto=format&q=80",
@@ -1058,8 +1368,18 @@
     },
     {
       "id": "dish_032",
-      "name": "Chicken Lollipop",
-      "type": "starter",
+      "name": {
+        "en": "Chicken Lollipop",
+        "hi": "चिकन लॉलीपॉप",
+        "te": "చికెన్ లాలీపాప్",
+        "kn": "ಚಿಕನ್ ಲಾಲಿಪಾಪ್"
+      },
+      "type": {
+        "en": "Starter",
+        "hi": "स्टार्टर",
+        "te": "స్టార్టర్",
+        "kn": "ಸ್ಟಾರ್ಟರ್"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1562967914-608f82629710?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1562967914-608f82629710?w=600&h=400&fit=crop&auto=format&q=80",
@@ -1089,8 +1409,18 @@
     },
     {
       "id": "dish_033",
-      "name": "Aloo Tikki",
-      "type": "starter",
+      "name": {
+        "en": "Aloo Tikki",
+        "hi": "आलू टिक्की",
+        "te": "ఆలూ టిక్కీ",
+        "kn": "ಆಲೂ ಟಿಕ್ಕಿ"
+      },
+      "type": {
+        "en": "Starter",
+        "hi": "स्टार्टर",
+        "te": "స్టార్టర్",
+        "kn": "ಸ್ಟಾರ್ಟರ್"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1606491956689-2ea866880049?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1606491956689-2ea866880049?w=600&h=400&fit=crop&auto=format&q=80",
@@ -1125,8 +1455,18 @@
     },
     {
       "id": "dish_034",
-      "name": "Fish Finger",
-      "type": "starter",
+      "name": {
+        "en": "Fish Finger",
+        "hi": "फिश फिंगर",
+        "te": "ఫిష్ ఫింగర్",
+        "kn": "ಫಿಶ್ ಫಿಂಗರ್"
+      },
+      "type": {
+        "en": "Starter",
+        "hi": "स्टार्टर",
+        "te": "స్టార్టర్",
+        "kn": "ಸ್ಟಾರ್ಟರ್"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1626645738196-c2a7c87a8f58?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1626645738196-c2a7c87a8f58?w=600&h=400&fit=crop&auto=format&q=80",
@@ -1161,8 +1501,18 @@
     },
     {
       "id": "dish_035",
-      "name": "Spring Rolls",
-      "type": "starter",
+      "name": {
+        "en": "Spring Rolls",
+        "hi": "स्प्रिंग रोल्स",
+        "te": "స్ప్రింగ్ రోల్స్",
+        "kn": "ಸ್ಪ್ರಿಂಗ್ ರೋಲ್ಸ್"
+      },
+      "type": {
+        "en": "Starter",
+        "hi": "स्टार्टर",
+        "te": "స్టార్టర్",
+        "kn": "ಸ್ಟಾರ್ಟರ್"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1548507200-2e58118a8494?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1548507200-2e58118a8494?w=600&h=400&fit=crop&auto=format&q=80",
@@ -1202,8 +1552,18 @@
     },
     {
       "id": "dish_036",
-      "name": "Bruschetta",
-      "type": "starter",
+      "name": {
+        "en": "Bruschetta",
+        "hi": "ब्रुशेटा",
+        "te": "బ్రుషెట్టా",
+        "kn": "ಬ್ರುಷೆಟ್ಟಾ"
+      },
+      "type": {
+        "en": "Starter",
+        "hi": "स्टार्टर",
+        "te": "స్టార్టర్",
+        "kn": "ಸ್ಟಾರ್ಟರ್"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1572695157366-5e585ab2b69f?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1572695157366-5e585ab2b69f?w=600&h=400&fit=crop&auto=format&q=80",
@@ -1238,8 +1598,18 @@
     },
     {
       "id": "dish_037",
-      "name": "Chicken Wings",
-      "type": "starter",
+      "name": {
+        "en": "Chicken Wings",
+        "hi": "चिकन विंग्स",
+        "te": "చికెన్ వింగ్స్",
+        "kn": "ಚಿಕನ್ ವಿಂಗ್ಸ್"
+      },
+      "type": {
+        "en": "Starter",
+        "hi": "स्टार्टर",
+        "te": "స్టార్టర్",
+        "kn": "ಸ್ಟಾರ್ಟರ್"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1608039829572-9b9d0d396595?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1608039829572-9b9d0d396595?w=600&h=400&fit=crop&auto=format&q=80",
@@ -1279,8 +1649,18 @@
     },
     {
       "id": "dish_038",
-      "name": "Stuffed Mushrooms",
-      "type": "starter",
+      "name": {
+        "en": "Stuffed Mushrooms",
+        "hi": "स्टफ्ड मशरूम",
+        "te": "స్టఫ్డ్ మష్రూమ్స్",
+        "kn": "ಸ್ಟಫ್ಡ್ ಮಶ್ರೂಮ್ಸ್"
+      },
+      "type": {
+        "en": "Starter",
+        "hi": "स्टार्टर",
+        "te": "స్టార్టర్",
+        "kn": "ಸ್ಟಾರ್ಟರ್"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=600&h=400&fit=crop&auto=format&q=80",
@@ -1320,8 +1700,18 @@
     },
     {
       "id": "dish_039",
-      "name": "Prawn Tempura",
-      "type": "starter",
+      "name": {
+        "en": "Prawn Tempura",
+        "hi": "प्रॉन टेम्पुरा",
+        "te": "రొయ్యల టెంపురా",
+        "kn": "ಸೀಗಡಿ ಟೆಂಪುರಾ"
+      },
+      "type": {
+        "en": "Starter",
+        "hi": "स्टार्टर",
+        "te": "స్టార్టర్",
+        "kn": "ಸ್ಟಾರ್ಟರ್"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1615141982883-c7ad0e69fd62?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1615141982883-c7ad0e69fd62?w=600&h=400&fit=crop&auto=format&q=80",
@@ -1351,8 +1741,18 @@
     },
     {
       "id": "dish_040",
-      "name": "Dahi Kebab",
-      "type": "starter",
+      "name": {
+        "en": "Dahi Kebab",
+        "hi": "दही कबाब",
+        "te": "దహీ కబాబ్",
+        "kn": "ದಹಿ ಕಬಾಬ್"
+      },
+      "type": {
+        "en": "Starter",
+        "hi": "स्टार्टर",
+        "te": "స్టార్టర్",
+        "kn": "ಸ್ಟಾರ್ಟರ್"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1567188040759-fb8a883dc6d8?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1567188040759-fb8a883dc6d8?w=600&h=400&fit=crop&auto=format&q=80",
@@ -1392,8 +1792,18 @@
     },
     {
       "id": "dish_041",
-      "name": "Mutton Shammi Kebab",
-      "type": "starter",
+      "name": {
+        "en": "Mutton Shammi Kebab",
+        "hi": "मटन शम्मी कबाब",
+        "te": "మటన్ షమ్మీ కబాబ్",
+        "kn": "ಮಟನ್ ಶಮ್ಮಿ ಕಬಾಬ್"
+      },
+      "type": {
+        "en": "Starter",
+        "hi": "स्टार्टर",
+        "te": "స్టార్టర్",
+        "kn": "ಸ್ಟಾರ್ಟರ್"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?w=600&h=400&fit=crop&auto=format&q=80",
@@ -1428,8 +1838,18 @@
     },
     {
       "id": "dish_042",
-      "name": "Corn Cheese Balls",
-      "type": "starter",
+      "name": {
+        "en": "Corn Cheese Balls",
+        "hi": "कॉर्न चीज़ बॉल्स",
+        "te": "కార్న్ చీజ్ బాల్స్",
+        "kn": "ಕಾರ್ನ್ ಚೀಸ್ ಬಾಲ್ಸ್"
+      },
+      "type": {
+        "en": "Starter",
+        "hi": "स्टार्टर",
+        "te": "స్టార్టర్",
+        "kn": "ಸ್ಟಾರ್ಟರ್"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1548507200-2e58118a8494?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1548507200-2e58118a8494?w=600&h=400&fit=crop&auto=format&q=80",
@@ -1469,8 +1889,18 @@
     },
     {
       "id": "dish_043",
-      "name": "Garlic Bread",
-      "type": "starter",
+      "name": {
+        "en": "Garlic Bread",
+        "hi": "गार्लिक ब्रेड",
+        "te": "గార్లిక్ బ్రెడ్",
+        "kn": "ಗಾರ್ಲಿಕ್ ಬ್ರೆಡ್"
+      },
+      "type": {
+        "en": "Starter",
+        "hi": "स्टार्टर",
+        "te": "స్టార్టర్",
+        "kn": "ಸ್ಟಾರ್ಟರ್"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1619535860434-ba1d8fa12536?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1619535860434-ba1d8fa12536?w=600&h=400&fit=crop&auto=format&q=80",
@@ -1495,8 +1925,18 @@
     },
     {
       "id": "dish_044",
-      "name": "Pani Puri",
-      "type": "starter",
+      "name": {
+        "en": "Pani Puri",
+        "hi": "पानी पूरी",
+        "te": "పానీ పూరీ",
+        "kn": "ಪಾನಿ ಪೂರಿ"
+      },
+      "type": {
+        "en": "Starter",
+        "hi": "स्टार्टर",
+        "te": "స్టార్టర్",
+        "kn": "ಸ್ಟಾರ್ಟರ್"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1625220194771-7ebdea0b70b9?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1625220194771-7ebdea0b70b9?w=600&h=400&fit=crop&auto=format&q=80",
@@ -1531,8 +1971,18 @@
     },
     {
       "id": "dish_045",
-      "name": "Chilli Chicken",
-      "type": "starter",
+      "name": {
+        "en": "Chilli Chicken",
+        "hi": "चिली चिकन",
+        "te": "చిల్లీ చికెన్",
+        "kn": "ಚಿಲ್ಲಿ ಚಿಕನ್"
+      },
+      "type": {
+        "en": "Starter",
+        "hi": "स्टार्टर",
+        "te": "స్టార్టర్",
+        "kn": "ಸ್ಟಾರ್ಟರ್"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1562967914-608f82629710?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1562967914-608f82629710?w=600&h=400&fit=crop&auto=format&q=80",
@@ -1562,8 +2012,18 @@
     },
     {
       "id": "dish_046",
-      "name": "Classic Chicken Burger",
-      "type": "fast food",
+      "name": {
+        "en": "Classic Chicken Burger",
+        "hi": "क्लासिक चिकन बर्गर",
+        "te": "క్లాసిక్ చికెన్ బర్గర్",
+        "kn": "ಕ್ಲಾಸಿಕ್ ಚಿಕನ್ ಬರ್ಗರ್"
+      },
+      "type": {
+        "en": "Fast Food",
+        "hi": "फास्ट फूड",
+        "te": "ఫాస్ట్ ఫుడ్",
+        "kn": "ಫಾಸ್ಟ್ ಫುಡ್"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=600&h=400&fit=crop&auto=format&q=80",
@@ -1598,8 +2058,18 @@
     },
     {
       "id": "dish_047",
-      "name": "Veggie Wrap",
-      "type": "fast food",
+      "name": {
+        "en": "Veggie Wrap",
+        "hi": "वेज रैप",
+        "te": "వెజ్ ర్యాప్",
+        "kn": "ವೆಜ್ ರ್ಯಾಪ್"
+      },
+      "type": {
+        "en": "Fast Food",
+        "hi": "फास्ट फूड",
+        "te": "ఫాస్ట్ ఫుడ్",
+        "kn": "ಫಾಸ್ಟ್ ಫುಡ್"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1626700051175-6818013e1d4f?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1626700051175-6818013e1d4f?w=600&h=400&fit=crop&auto=format&q=80",
@@ -1634,8 +2104,18 @@
     },
     {
       "id": "dish_048",
-      "name": "French Fries",
-      "type": "fast food",
+      "name": {
+        "en": "French Fries",
+        "hi": "फ्रेंच फ्राइज़",
+        "te": "ఫ్రెంచ్ ఫ్రైస్",
+        "kn": "ಫ್ರೆಂಚ್ ಫ್ರೈಸ್"
+      },
+      "type": {
+        "en": "Fast Food",
+        "hi": "फास्ट फूड",
+        "te": "ఫాస్ట్ ఫుడ్",
+        "kn": "ಫಾಸ್ಟ್ ಫುಡ್"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?w=600&h=400&fit=crop&auto=format&q=80",
@@ -1675,8 +2155,18 @@
     },
     {
       "id": "dish_049",
-      "name": "Chicken Shawarma",
-      "type": "fast food",
+      "name": {
+        "en": "Chicken Shawarma",
+        "hi": "चिकन शावरमा",
+        "te": "చికెన్ షవర్మా",
+        "kn": "ಚಿಕನ್ ಶವರ್ಮಾ"
+      },
+      "type": {
+        "en": "Fast Food",
+        "hi": "फास्ट फूड",
+        "te": "ఫాస్ట్ ఫుడ్",
+        "kn": "ಫಾಸ್ಟ್ ಫುಡ್"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1529006557810-274b9b2fc783?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1529006557810-274b9b2fc783?w=600&h=400&fit=crop&auto=format&q=80",
@@ -1706,8 +2196,18 @@
     },
     {
       "id": "dish_050",
-      "name": "Paneer Frankie",
-      "type": "fast food",
+      "name": {
+        "en": "Paneer Frankie",
+        "hi": "पनीर फ्रैंकी",
+        "te": "పనీర్ ఫ్రాంకీ",
+        "kn": "ಪನೀರ್ ಫ್ರಾಂಕೀ"
+      },
+      "type": {
+        "en": "Fast Food",
+        "hi": "फास्ट फूड",
+        "te": "ఫాస్ట్ ఫుడ్",
+        "kn": "ಫಾಸ್ಟ್ ಫುಡ್"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1626700051175-6818013e1d4f?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1626700051175-6818013e1d4f?w=600&h=400&fit=crop&auto=format&q=80",
@@ -1737,8 +2237,18 @@
     },
     {
       "id": "dish_051",
-      "name": "Veg Cheese Pizza",
-      "type": "fast food",
+      "name": {
+        "en": "Veg Cheese Pizza",
+        "hi": "वेज चीज़ पिज्जा",
+        "te": "వెజ్ చీజ్ పిజ్జా",
+        "kn": "ವೆಜ್ ಚೀಸ್ ಪಿಜ್ಜಾ"
+      },
+      "type": {
+        "en": "Fast Food",
+        "hi": "फास्ट फूड",
+        "te": "ఫాస్ట్ ఫుడ్",
+        "kn": "ಫಾಸ್ಟ್ ಫುಡ್"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=600&h=400&fit=crop&auto=format&q=80",
@@ -1778,8 +2288,18 @@
     },
     {
       "id": "dish_052",
-      "name": "Chicken Momos",
-      "type": "fast food",
+      "name": {
+        "en": "Chicken Momos",
+        "hi": "चिकन मोमो",
+        "te": "చికెన్ మోమోస్",
+        "kn": "ಚಿಕನ್ ಮೋಮೋಸ್"
+      },
+      "type": {
+        "en": "Fast Food",
+        "hi": "फास्ट फूड",
+        "te": "ఫాస్ట్ ఫుడ్",
+        "kn": "ಫಾಸ್ಟ್ ಫುಡ್"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?w=600&h=400&fit=crop&auto=format&q=80",
@@ -1819,8 +2339,18 @@
     },
     {
       "id": "dish_053",
-      "name": "Veg Momos",
-      "type": "fast food",
+      "name": {
+        "en": "Veg Momos",
+        "hi": "वेज मोमो",
+        "te": "వెజ్ మోమోస్",
+        "kn": "ವೆಜ್ ಮೋಮೋಸ್"
+      },
+      "type": {
+        "en": "Fast Food",
+        "hi": "फास्ट फूड",
+        "te": "ఫాస్ట్ ఫుడ్",
+        "kn": "ಫಾಸ್ಟ್ ಫುಡ್"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?w=600&h=400&fit=crop&auto=format&q=80",
@@ -1860,8 +2390,18 @@
     },
     {
       "id": "dish_054",
-      "name": "Hot Dog",
-      "type": "fast food",
+      "name": {
+        "en": "Hot Dog",
+        "hi": "हॉट डॉग",
+        "te": "హాట్ డాగ్",
+        "kn": "ಹಾಟ್ ಡಾಗ್"
+      },
+      "type": {
+        "en": "Fast Food",
+        "hi": "फास्ट फूड",
+        "te": "ఫాస్ట్ ఫుడ్",
+        "kn": "ಫಾಸ್ಟ್ ಫುಡ್"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1612392062126-5cc76074c52f?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1612392062126-5cc76074c52f?w=600&h=400&fit=crop&auto=format&q=80",
@@ -1901,8 +2441,18 @@
     },
     {
       "id": "dish_055",
-      "name": "Vada Pav",
-      "type": "fast food",
+      "name": {
+        "en": "Vada Pav",
+        "hi": "वड़ा पाव",
+        "te": "వడా పావ్",
+        "kn": "ವಡಾ ಪಾವ್"
+      },
+      "type": {
+        "en": "Fast Food",
+        "hi": "फास्ट फूड",
+        "te": "ఫాస్ట్ ఫుడ్",
+        "kn": "ಫಾಸ್ಟ್ ಫುಡ್"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1606491956689-2ea866880049?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1606491956689-2ea866880049?w=600&h=400&fit=crop&auto=format&q=80",
@@ -1942,8 +2492,18 @@
     },
     {
       "id": "dish_056",
-      "name": "Dosa Masala",
-      "type": "fast food",
+      "name": {
+        "en": "Dosa Masala",
+        "hi": "दोसा मसाला",
+        "te": "దోస మసాలా",
+        "kn": "ದೋಸ ಮಸಾಲ"
+      },
+      "type": {
+        "en": "Fast Food",
+        "hi": "फास्ट फूड",
+        "te": "ఫాస్ట్ ఫుడ్",
+        "kn": "ಫಾಸ್ಟ್ ಫುಡ್"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1630383249896-424e482df921?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1630383249896-424e482df921?w=600&h=400&fit=crop&auto=format&q=80",
@@ -1978,8 +2538,18 @@
     },
     {
       "id": "dish_057",
-      "name": "Pav Bhaji",
-      "type": "fast food",
+      "name": {
+        "en": "Pav Bhaji",
+        "hi": "पाव भाजी",
+        "te": "పావ్ భాజీ",
+        "kn": "ಪಾವ್ ಭಾಜಿ"
+      },
+      "type": {
+        "en": "Fast Food",
+        "hi": "फास्ट फूड",
+        "te": "ఫాస్ట్ ఫుడ్",
+        "kn": "ಫಾಸ್ಟ್ ಫುಡ್"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1606491956689-2ea866880049?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1606491956689-2ea866880049?w=600&h=400&fit=crop&auto=format&q=80",
@@ -2019,8 +2589,18 @@
     },
     {
       "id": "dish_058",
-      "name": "Egg Roll",
-      "type": "fast food",
+      "name": {
+        "en": "Egg Roll",
+        "hi": "एग रोल",
+        "te": "ఎగ్ రోల్",
+        "kn": "ಎಗ್ ರೋಲ್"
+      },
+      "type": {
+        "en": "Fast Food",
+        "hi": "फास्ट फूड",
+        "te": "ఫాస్ట్ ఫుడ్",
+        "kn": "ಫಾಸ್ಟ್ ಫುಡ್"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1626700051175-6818013e1d4f?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1626700051175-6818013e1d4f?w=600&h=400&fit=crop&auto=format&q=80",
@@ -2050,8 +2630,18 @@
     },
     {
       "id": "dish_059",
-      "name": "Cheese Burst Pizza",
-      "type": "fast food",
+      "name": {
+        "en": "Cheese Burst Pizza",
+        "hi": "चीज़ बर्स्ट पिज्जा",
+        "te": "చీజ్ బర్స్ట్ పిజ్జా",
+        "kn": "ಚೀಸ್ ಬರ್ಸ್ಟ್ ಪಿಜ್ಜಾ"
+      },
+      "type": {
+        "en": "Fast Food",
+        "hi": "फास्ट फूड",
+        "te": "ఫాస్ట్ ఫుడ్",
+        "kn": "ಫಾಸ್ಟ್ ಫುಡ್"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=600&h=400&fit=crop&auto=format&q=80",
@@ -2076,8 +2666,18 @@
     },
     {
       "id": "dish_060",
-      "name": "Crispy Chicken Taco",
-      "type": "fast food",
+      "name": {
+        "en": "Crispy Chicken Taco",
+        "hi": "क्रिस्पी चिकन टैको",
+        "te": "క్రిస్పీ చికెన్ టాకో",
+        "kn": "ಕ್ರಿಸ್ಪಿ ಚಿಕನ್ ಟಾಕೋ"
+      },
+      "type": {
+        "en": "Fast Food",
+        "hi": "फास्ट फूड",
+        "te": "ఫాస్ట్ ఫుడ్",
+        "kn": "ಫಾಸ್ಟ್ ಫುಡ್"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1551504734-5ee1c4a1479b?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1551504734-5ee1c4a1479b?w=600&h=400&fit=crop&auto=format&q=80",
@@ -2117,8 +2717,18 @@
     },
     {
       "id": "dish_061",
-      "name": "Cold Coffee",
-      "type": "beverage",
+      "name": {
+        "en": "Cold Coffee",
+        "hi": "कोल्ड कॉफी",
+        "te": "కోల్డ్ కాఫీ",
+        "kn": "ಕೋಲ್ಡ್ ಕಾಫಿ"
+      },
+      "type": {
+        "en": "Beverage",
+        "hi": "पेय पदार्थ",
+        "te": "పానీయం",
+        "kn": "ಪಾನೀಯ"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?w=600&h=400&fit=crop&auto=format&q=80",
@@ -2153,8 +2763,18 @@
     },
     {
       "id": "dish_062",
-      "name": "Masala Chai",
-      "type": "beverage",
+      "name": {
+        "en": "Masala Chai",
+        "hi": "मसाला चाय",
+        "te": "మసాలా చాయ్",
+        "kn": "ಮಸಾಲಾ ಚಾಯ್"
+      },
+      "type": {
+        "en": "Beverage",
+        "hi": "पेय पदार्थ",
+        "te": "పానీయం",
+        "kn": "ಪಾನೀಯ"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1571934811356-5cc061b6821f?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1571934811356-5cc061b6821f?w=600&h=400&fit=crop&auto=format&q=80",
@@ -2194,8 +2814,18 @@
     },
     {
       "id": "dish_063",
-      "name": "Mango Lassi",
-      "type": "beverage",
+      "name": {
+        "en": "Mango Lassi",
+        "hi": "मैंगो लस्सी",
+        "te": "మామిడి లస్సీ",
+        "kn": "ಮಾವಿನ ಹಣ್ಣಿನ ಲಸ್ಸಿ"
+      },
+      "type": {
+        "en": "Beverage",
+        "hi": "पेय पदार्थ",
+        "te": "పానీయం",
+        "kn": "ಪಾನೀಯ"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1527661591475-527312dd65f5?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1527661591475-527312dd65f5?w=600&h=400&fit=crop&auto=format&q=80",
@@ -2230,8 +2860,18 @@
     },
     {
       "id": "dish_064",
-      "name": "Fresh Lime Soda",
-      "type": "beverage",
+      "name": {
+        "en": "Fresh Lime Soda",
+        "hi": "ताज़ा नींबू सोडा",
+        "te": "ఫ్రెష్ లైమ్ సోడా",
+        "kn": "ಫ್ರೆಶ್ ಲೈಮ್ ಸೋಡಾ"
+      },
+      "type": {
+        "en": "Beverage",
+        "hi": "पेय पदार्थ",
+        "te": "పానీయం",
+        "kn": "ಪಾನೀಯ"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1513558161293-cdaf765ed93d?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1513558161293-cdaf765ed93d?w=600&h=400&fit=crop&auto=format&q=80",
@@ -2261,8 +2901,18 @@
     },
     {
       "id": "dish_065",
-      "name": "Strawberry Milkshake",
-      "type": "beverage",
+      "name": {
+        "en": "Strawberry Milkshake",
+        "hi": "स्ट्रॉबेरी मिल्कशेक",
+        "te": "స్ట్రాబెర్రీ మిల్క్షేక్",
+        "kn": "ಸ್ಟ್ರಾಬೆರಿ ಮಿಲ್ಕ್ಶೇಕ್"
+      },
+      "type": {
+        "en": "Beverage",
+        "hi": "पेय पदार्थ",
+        "te": "పానీయం",
+        "kn": "ಪಾನೀಯ"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1572490122747-3968b75cc699?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1572490122747-3968b75cc699?w=600&h=400&fit=crop&auto=format&q=80",
@@ -2297,8 +2947,18 @@
     },
     {
       "id": "dish_066",
-      "name": "Green Tea",
-      "type": "beverage",
+      "name": {
+        "en": "Green Tea",
+        "hi": "ग्रीन टी",
+        "te": "గ్రీన్ టీ",
+        "kn": "ಗ್ರೀನ್ ಟೀ"
+      },
+      "type": {
+        "en": "Beverage",
+        "hi": "पेय पदार्थ",
+        "te": "పానీయం",
+        "kn": "ಪಾನೀಯ"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1556881286-fc6915169721?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1556881286-fc6915169721?w=600&h=400&fit=crop&auto=format&q=80",
@@ -2338,8 +2998,18 @@
     },
     {
       "id": "dish_067",
-      "name": "Oreo Shake",
-      "type": "beverage",
+      "name": {
+        "en": "Oreo Shake",
+        "hi": "ओरियो शेक",
+        "te": "ఒరియో షేక్",
+        "kn": "ಒರಿಯೋ ಶೇಕ್"
+      },
+      "type": {
+        "en": "Beverage",
+        "hi": "पेय पदार्थ",
+        "te": "పానీయం",
+        "kn": "ಪಾನೀಯ"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1572490122747-3968b75cc699?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1572490122747-3968b75cc699?w=600&h=400&fit=crop&auto=format&q=80",
@@ -2374,8 +3044,18 @@
     },
     {
       "id": "dish_068",
-      "name": "Watermelon Juice",
-      "type": "beverage",
+      "name": {
+        "en": "Watermelon Juice",
+        "hi": "तरबूज का जूस",
+        "te": "పుచ్చకాయ జ్యూస్",
+        "kn": "ಕಲ್ಲಂಗಡಿ ಜ್ಯೂಸ್"
+      },
+      "type": {
+        "en": "Beverage",
+        "hi": "पेय पदार्थ",
+        "te": "పానీయం",
+        "kn": "ಪಾನೀಯ"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1534353473418-4cfa6c56fd38?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1534353473418-4cfa6c56fd38?w=600&h=400&fit=crop&auto=format&q=80",
@@ -2415,8 +3095,18 @@
     },
     {
       "id": "dish_069",
-      "name": "Cappuccino",
-      "type": "beverage",
+      "name": {
+        "en": "Cappuccino",
+        "hi": "कैप्पुकिनो",
+        "te": "కాపుచినో",
+        "kn": "ಕಪ್ಪುಚಿನೋ"
+      },
+      "type": {
+        "en": "Beverage",
+        "hi": "पेय पदार्थ",
+        "te": "పానీయం",
+        "kn": "ಪಾನೀಯ"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1572442388796-11668a67e53d?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1572442388796-11668a67e53d?w=600&h=400&fit=crop&auto=format&q=80",
@@ -2451,8 +3141,18 @@
     },
     {
       "id": "dish_070",
-      "name": "Mojito",
-      "type": "beverage",
+      "name": {
+        "en": "Mojito",
+        "hi": "मोजिटो",
+        "te": "మోజిటో",
+        "kn": "ಮೊಜಿಟೋ"
+      },
+      "type": {
+        "en": "Beverage",
+        "hi": "पेय पदार्थ",
+        "te": "పానీయం",
+        "kn": "ಪಾನೀಯ"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1513558161293-cdaf765ed93d?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1513558161293-cdaf765ed93d?w=600&h=400&fit=crop&auto=format&q=80",
@@ -2487,8 +3187,18 @@
     },
     {
       "id": "dish_071",
-      "name": "Iced Americano",
-      "type": "beverage",
+      "name": {
+        "en": "Iced Americano",
+        "hi": "आइस्ड अमेरिकानो",
+        "te": "ఐస్డ్ అమెరికానో",
+        "kn": "ಐಸ್ಡ್ ಅಮೆರಿಕಾನೋ"
+      },
+      "type": {
+        "en": "Beverage",
+        "hi": "पेय पदार्थ",
+        "te": "పానీయం",
+        "kn": "ಪಾನೀಯ"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?w=600&h=400&fit=crop&auto=format&q=80",
@@ -2513,8 +3223,18 @@
     },
     {
       "id": "dish_072",
-      "name": "Thandai",
-      "type": "beverage",
+      "name": {
+        "en": "Thandai",
+        "hi": "ठंडाई",
+        "te": "థండాయ్",
+        "kn": "ಥಂಡಾಯ್"
+      },
+      "type": {
+        "en": "Beverage",
+        "hi": "पेय पदार्थ",
+        "te": "పానీయం",
+        "kn": "ಪಾನೀಯ"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1527661591475-527312dd65f5?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1527661591475-527312dd65f5?w=600&h=400&fit=crop&auto=format&q=80",
@@ -2554,8 +3274,18 @@
     },
     {
       "id": "dish_073",
-      "name": "Butter Milk",
-      "type": "beverage",
+      "name": {
+        "en": "Butter Milk",
+        "hi": "छाछ",
+        "te": "మజ్జిగ",
+        "kn": "ಮಜ್ಜಿಗೆ"
+      },
+      "type": {
+        "en": "Beverage",
+        "hi": "पेय पदार्थ",
+        "te": "పానీయం",
+        "kn": "ಪಾನೀಯ"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1527661591475-527312dd65f5?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1527661591475-527312dd65f5?w=600&h=400&fit=crop&auto=format&q=80",
@@ -2580,8 +3310,18 @@
     },
     {
       "id": "dish_074",
-      "name": "Espresso",
-      "type": "beverage",
+      "name": {
+        "en": "Espresso",
+        "hi": "एस्प्रेसो",
+        "te": "ఎస్ప్రెస్సో",
+        "kn": "ಎಸ್ಪ್ರೆಸ್ಸೋ"
+      },
+      "type": {
+        "en": "Beverage",
+        "hi": "पेय पदार्थ",
+        "te": "పానీయం",
+        "kn": "ಪಾನೀಯ"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1510707577719-ae7c14805e3a?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1510707577719-ae7c14805e3a?w=600&h=400&fit=crop&auto=format&q=80",
@@ -2606,8 +3346,18 @@
     },
     {
       "id": "dish_075",
-      "name": "Hot Chocolate",
-      "type": "beverage",
+      "name": {
+        "en": "Hot Chocolate",
+        "hi": "हॉट चॉकलेट",
+        "te": "హాట్ చాక్లెట్",
+        "kn": "ಹಾಟ್ ಚಾಕೊಲೇಟ್"
+      },
+      "type": {
+        "en": "Beverage",
+        "hi": "पेय पदार्थ",
+        "te": "పానీయం",
+        "kn": "ಪಾನೀಯ"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1542990253-0d0f5be5f0ed?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1542990253-0d0f5be5f0ed?w=600&h=400&fit=crop&auto=format&q=80",
@@ -2637,8 +3387,18 @@
     },
     {
       "id": "dish_076",
-      "name": "Gulab Jamun",
-      "type": "dessert",
+      "name": {
+        "en": "Gulab Jamun",
+        "hi": "गुलाब जामुन",
+        "te": "గులాబ్ జామున్",
+        "kn": "ಗುಲಾಬ್ ಜಾಮೂನ್"
+      },
+      "type": {
+        "en": "Dessert",
+        "hi": "मिठाई",
+        "te": "డెజర్ట్",
+        "kn": "ಸಿಹಿ ಭಕ್ಷ್ಯ"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1666190020070-9c500e8e10a4?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1666190020070-9c500e8e10a4?w=600&h=400&fit=crop&auto=format&q=80",
@@ -2668,8 +3428,18 @@
     },
     {
       "id": "dish_077",
-      "name": "Rasgulla",
-      "type": "dessert",
+      "name": {
+        "en": "Rasgulla",
+        "hi": "रसगुल्ला",
+        "te": "రస్గుల్లా",
+        "kn": "ರಸ್ಗುಲ್ಲಾ"
+      },
+      "type": {
+        "en": "Dessert",
+        "hi": "मिठाई",
+        "te": "డెజర్ట్",
+        "kn": "ಸಿಹಿ ಭಕ್ಷ್ಯ"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1645177628172-a94c1f96e6db?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1645177628172-a94c1f96e6db?w=600&h=400&fit=crop&auto=format&q=80",
@@ -2704,8 +3474,18 @@
     },
     {
       "id": "dish_078",
-      "name": "Chocolate Brownie",
-      "type": "dessert",
+      "name": {
+        "en": "Chocolate Brownie",
+        "hi": "चॉकलेट ब्राउनी",
+        "te": "చాక్లెట్ బ్రౌనీ",
+        "kn": "ಚಾಕೊಲೇಟ್ ಬ್ರೌನಿ"
+      },
+      "type": {
+        "en": "Dessert",
+        "hi": "मिठाई",
+        "te": "డెజర్ట్",
+        "kn": "ಸಿಹಿ ಭಕ್ಷ್ಯ"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=600&h=400&fit=crop&auto=format&q=80",
@@ -2730,8 +3510,18 @@
     },
     {
       "id": "dish_079",
-      "name": "Rasmalai",
-      "type": "dessert",
+      "name": {
+        "en": "Rasmalai",
+        "hi": "रसमलाई",
+        "te": "రస్మలాయ్",
+        "kn": "ರಸ್ಮಲಾಯ್"
+      },
+      "type": {
+        "en": "Dessert",
+        "hi": "मिठाई",
+        "te": "డెజర్ట్",
+        "kn": "ಸಿಹಿ ಭಕ್ಷ್ಯ"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1645177628172-a94c1f96e6db?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1645177628172-a94c1f96e6db?w=600&h=400&fit=crop&auto=format&q=80",
@@ -2756,8 +3546,18 @@
     },
     {
       "id": "dish_080",
-      "name": "Tiramisu",
-      "type": "dessert",
+      "name": {
+        "en": "Tiramisu",
+        "hi": "तिरामिसू",
+        "te": "టిరామిసు",
+        "kn": "ಟಿರಾಮಿಸು"
+      },
+      "type": {
+        "en": "Dessert",
+        "hi": "मिठाई",
+        "te": "డెజర్ట్",
+        "kn": "ಸಿಹಿ ಭಕ್ಷ್ಯ"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1571877227200-a0d98ea607e9?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1571877227200-a0d98ea607e9?w=600&h=400&fit=crop&auto=format&q=80",
@@ -2797,8 +3597,18 @@
     },
     {
       "id": "dish_081",
-      "name": "Kulfi Falooda",
-      "type": "dessert",
+      "name": {
+        "en": "Kulfi Falooda",
+        "hi": "कुल्फी फालूदा",
+        "te": "కుల్ఫీ ఫలూదా",
+        "kn": "ಕುಲ್ಫಿ ಫಲೂದಾ"
+      },
+      "type": {
+        "en": "Dessert",
+        "hi": "मिठाई",
+        "te": "డెజర్ట్",
+        "kn": "ಸಿಹಿ ಭಕ್ಷ್ಯ"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1527661591475-527312dd65f5?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1527661591475-527312dd65f5?w=600&h=400&fit=crop&auto=format&q=80",
@@ -2833,8 +3643,18 @@
     },
     {
       "id": "dish_082",
-      "name": "Jalebi",
-      "type": "dessert",
+      "name": {
+        "en": "Jalebi",
+        "hi": "जलेबी",
+        "te": "జలేబీ",
+        "kn": "ಜಲೇಬಿ"
+      },
+      "type": {
+        "en": "Dessert",
+        "hi": "मिठाई",
+        "te": "డెజర్ట్",
+        "kn": "ಸಿಹಿ ಭಕ್ಷ್ಯ"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=600&h=400&fit=crop&auto=format&q=80",
@@ -2874,8 +3694,18 @@
     },
     {
       "id": "dish_083",
-      "name": "Chocolate Lava Cake",
-      "type": "dessert",
+      "name": {
+        "en": "Chocolate Lava Cake",
+        "hi": "चॉकलेट लावा केक",
+        "te": "చాక్లెట్ లావా కేక్",
+        "kn": "ಚಾಕೊಲೇಟ್ ಲಾವಾ ಕೇಕ್"
+      },
+      "type": {
+        "en": "Dessert",
+        "hi": "मिठाई",
+        "te": "డెజర్ట్",
+        "kn": "ಸಿಹಿ ಭಕ್ಷ್ಯ"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=600&h=400&fit=crop&auto=format&q=80",
@@ -2900,8 +3730,18 @@
     },
     {
       "id": "dish_084",
-      "name": "Mango Cheesecake",
-      "type": "dessert",
+      "name": {
+        "en": "Mango Cheesecake",
+        "hi": "मैंगो चीज़केक",
+        "te": "మామిడి చీజ్ కేక్",
+        "kn": "ಮಾವಿನ ಚೀಸ್ ಕೇಕ್"
+      },
+      "type": {
+        "en": "Dessert",
+        "hi": "मिठाई",
+        "te": "డెజర్ట్",
+        "kn": "ಸಿಹಿ ಭಕ್ಷ್ಯ"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1567171466295-4afa63d45416?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1567171466295-4afa63d45416?w=600&h=400&fit=crop&auto=format&q=80",
@@ -2936,8 +3776,18 @@
     },
     {
       "id": "dish_085",
-      "name": "Gajar Ka Halwa",
-      "type": "dessert",
+      "name": {
+        "en": "Gajar Ka Halwa",
+        "hi": "गाजर का हलवा",
+        "te": "గాజర్ కా హల్వా",
+        "kn": "ಗಾಜರ್ ಕಾ ಹಲ್ವಾ"
+      },
+      "type": {
+        "en": "Dessert",
+        "hi": "मिठाई",
+        "te": "డెజర్ట్",
+        "kn": "ಸಿಹಿ ಭಕ್ಷ್ಯ"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1574484284002-952d92456975?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1574484284002-952d92456975?w=600&h=400&fit=crop&auto=format&q=80",
@@ -2962,8 +3812,18 @@
     },
     {
       "id": "dish_086",
-      "name": "Kheer",
-      "type": "dessert",
+      "name": {
+        "en": "Kheer",
+        "hi": "खीर",
+        "te": "ఖీర్",
+        "kn": "ಖೀರ್"
+      },
+      "type": {
+        "en": "Dessert",
+        "hi": "मिठाई",
+        "te": "డెజర్ట్",
+        "kn": "ಸಿಹಿ ಭಕ್ಷ್ಯ"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1574484284002-952d92456975?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1574484284002-952d92456975?w=600&h=400&fit=crop&auto=format&q=80",
@@ -2993,8 +3853,18 @@
     },
     {
       "id": "dish_087",
-      "name": "Ice Cream Sundae",
-      "type": "dessert",
+      "name": {
+        "en": "Ice Cream Sundae",
+        "hi": "आइसक्रीम संडे",
+        "te": "ఐస్ క్రీం సుండే",
+        "kn": "ಐಸ್ ಕ್ರೀಮ್ ಸುಂಡೇ"
+      },
+      "type": {
+        "en": "Dessert",
+        "hi": "मिठाई",
+        "te": "డెజర్ట్",
+        "kn": "ಸಿಹಿ ಭಕ್ಷ್ಯ"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=600&h=400&fit=crop&auto=format&q=80",
@@ -3034,8 +3904,18 @@
     },
     {
       "id": "dish_088",
-      "name": "Panna Cotta",
-      "type": "dessert",
+      "name": {
+        "en": "Panna Cotta",
+        "hi": "पन्ना कोट्टा",
+        "te": "పన్నా కాటా",
+        "kn": "ಪನ್ನಾ ಕೋಟಾ"
+      },
+      "type": {
+        "en": "Dessert",
+        "hi": "मिठाई",
+        "te": "డెజర్ట్",
+        "kn": "ಸಿಹಿ ಭಕ್ಷ್ಯ"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=600&h=400&fit=crop&auto=format&q=80",
@@ -3060,8 +3940,18 @@
     },
     {
       "id": "dish_089",
-      "name": "Moong Dal Halwa",
-      "type": "dessert",
+      "name": {
+        "en": "Moong Dal Halwa",
+        "hi": "मूंग दाल हलवा",
+        "te": "మూంగ్ దాల్ హల్వా",
+        "kn": "ಮೂಂಗ್ ದಾಲ್ ಹಲ್ವಾ"
+      },
+      "type": {
+        "en": "Dessert",
+        "hi": "मिठाई",
+        "te": "డెజర్ట్",
+        "kn": "ಸಿಹಿ ಭಕ್ಷ್ಯ"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1574484284002-952d92456975?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1574484284002-952d92456975?w=600&h=400&fit=crop&auto=format&q=80",
@@ -3101,8 +3991,18 @@
     },
     {
       "id": "dish_090",
-      "name": "Fruit Trifle",
-      "type": "dessert",
+      "name": {
+        "en": "Fruit Trifle",
+        "hi": "फ्रूट ट्राइफल",
+        "te": "ఫ్రూట్ ట్రైఫుల్",
+        "kn": "ಫ್ರೂಟ್ ಟ್ರೈಫಲ್"
+      },
+      "type": {
+        "en": "Dessert",
+        "hi": "मिठाई",
+        "te": "డెజర్ట్",
+        "kn": "ಸಿಹಿ ಭಕ್ಷ್ಯ"
+      },
       "bannerImages": [
         "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=800&h=600&fit=crop&auto=format&q=80",
         "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=600&h=400&fit=crop&auto=format&q=80",
