@@ -62,11 +62,18 @@
   },
   "settings": {
     "title": "Settings",
+    "subtitle": "Manage your preferences",
     "navTitle": "Settings",
     "language": "Language",
     "selectLanguage": "Select Language",
     "security": "Security",
+    "appInfo": "App Information",
+    "version": "Version",
+    "buildNumber": "Build Number",
     "biometricAuth": "Biometric Authentication",
+    "fingerprintAuthentication": "Fingerprint Authentication",
+    "useFingerprintToUnlock": "Use fingerprint to unlock the app",
+    "fingerprintNotEnrolled": "Fingerprint not enrolled on device",
     "biometricNotSetUp": "Biometric Not Set Up",
     "pleaseSetupBiometric": "Please set up {type} in your device settings first.",
     "notSupported": "Not Supported",
@@ -81,10 +88,7 @@
     "authentication": "Authentication",
     "failedToChangeLanguage": "Failed to change language. Please try again."
   },
-  "splash": {
-    "appName": "Urban Food",
-    "tagline": "Fresh. Fast. Delicious."
-  },
+  "splash": { "appName": "Urban Food", "tagline": "Fresh. Fast. Delicious." },
   "home": {
     "greeting": "Hey, {name}",
     "greetingFirstName": "Hey, {firstName}",
