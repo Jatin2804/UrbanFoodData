@@ -100,7 +100,9 @@
     "deliveryTo": "ಡೆಲಿವರಿ ವಿಳಾಸ",
     "activeOrders": "ಸಕ್ರಿಯ ಆರ್ಡರ್ಗಳು",
     "arrivingNow": "🎉 ಈಗ ಬರುತ್ತಿದೆ!",
-    "arrivingIn": "⏱ {time} ನಲ್ಲಿ ಬರುತ್ತಿದೆ"
+    "arrivingIn": "⏱ {time} ನಲ್ಲಿ ಬರುತ್ತಿದೆ",
+    "categories": "ವರ್ಗಗಳು",
+    "categoriesSubtitle": "ಆಹಾರ ಪ್ರಕಾರದ ಮೂಲಕ ಬ್ರೌಸ್ ಮಾಡಿ"
   },
   "restaurantCard": {
     "open": "ತೆರೆದಿದೆ",
@@ -308,6 +310,11 @@
     "contactInfo": "ಸಂಪರ್ಕ ಮಾಹಿತಿ",
     "email": "ಇಮೇಲ್",
     "phone": "ಫೋನ್"
+  },
+  "favourites": {
+    "title": "ಮೆಚ್ಚಿನವುಗಳು",
+    "noFavourites": "ಇನ್ನೂ ಮೆಚ್ಚಿನವುಗಳಿಲ್ಲ",
+    "noFavouritesMessage": "ನಿಮ್ಮ ಮೆಚ್ಚಿನವುಗಳಿಗೆ ಖಾದ್ಯಗಳನ್ನು ಸೇರಿಸಿ ಮತ್ತು ಅವುಗಳನ್ನು ಇಲ್ಲಿ ಹುಡುಕಿ"
   },
   "notifications": {
     "title": "ಅಧಿಸೂಚನೆಗಳು",

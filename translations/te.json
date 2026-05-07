@@ -100,7 +100,9 @@
     "deliveryTo": "డెలివరీ చేయవలసిన చిరునామా",
     "activeOrders": "చురుకైన ఆర్డర్లు",
     "arrivingNow": "🎉 ఇప్పుడే వస్తోంది!",
-    "arrivingIn": "⏱ {time}లో వస్తోంది"
+    "arrivingIn": "⏱ {time}లో వస్తోంది",
+    "categories": "వర్గాలు",
+    "categoriesSubtitle": "ఆహార రకం ద్వారా బ్రౌజ్ చేయండి"
   },
   "restaurantCard": {
     "open": "తెరిచి ఉంది",
@@ -308,6 +310,11 @@
     "contactInfo": "సంప్రదింపు సమాచారం",
     "email": "ఈమెయిల్",
     "phone": "ఫోన్"
+  },
+  "favourites": {
+    "title": "ఇష్టమైనవి",
+    "noFavourites": "ఇంకా ఇష్టమైనవి లేవు",
+    "noFavouritesMessage": "మీ ఇష్టమైనవాటికి వంటకాలను జోడించండి మరియు వాటిని ఇక్కడ కనుగొనండి"
   },
   "notifications": {
     "title": "నోటిఫికేషన్లు",
