@@ -86,9 +86,17 @@
     "restartNow": "Restart Now",
     "restartLater": "Later",
     "authentication": "Authentication",
-    "failedToChangeLanguage": "Failed to change language. Please try again."
+    "failedToChangeLanguage": "Failed to change language. Please try again.",
+    "appearance": "Appearance",
+    "appearanceDescription": "Choose how UrbanFood looks to you. Select system to follow your device setting.",
+    "system": "System",
+    "light": "Light",
+    "dark": "Dark"
   },
-  "splash": { "appName": "Urban Food", "tagline": "Fresh. Fast. Delicious." },
+  "splash": {
+    "appName": "Urban Food",
+    "tagline": "Fresh. Fast. Delicious."
+  },
   "home": {
     "greeting": "Hey, {name}",
     "greetingFirstName": "Hey, {firstName}",
@@ -134,7 +142,11 @@
     "topRated": "Top Rated",
     "default": "Default",
     "clearFilters": "Clear Filters",
-    "clearSort": "Clear Sort"
+    "clearSort": "Clear Sort",
+    "itemsAvailable": "{count} items available",
+    "itemAvailable": "{count} item available",
+    "gridView": "Grid View",
+    "listView": "List View"
   },
   "cart": {
     "title": "My Cart",

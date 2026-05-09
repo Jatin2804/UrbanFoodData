@@ -86,7 +86,12 @@
     "restartNow": "अभी पुनरारंभ करें",
     "restartLater": "बाद में",
     "authentication": "प्रमाणीकरण",
-    "failedToChangeLanguage": "भाषा बदलने में विफल। कृपया पुनः प्रयास करें।"
+    "failedToChangeLanguage": "भाषा बदलने में विफल। कृपया पुनः प्रयास करें।",
+    "appearance": "दिखावट",
+    "appearanceDescription": "चुनें कि अर्बन फूड आपको कैसा दिखे। अपनी डिवाइस सेटिंग का पालन करने के लिए सिस्टम चुनें।",
+    "system": "सिस्टम",
+    "light": "लाइट",
+    "dark": "डार्क"
   },
   "splash": {
     "appName": "अर्बन फूड",
@@ -137,7 +142,11 @@
     "topRated": "टॉप रेटेड",
     "default": "डिफ़ॉल्ट",
     "clearFilters": "फ़िल्टर साफ़ करें",
-    "clearSort": "क्रम साफ़ करें"
+    "clearSort": "क्रम साफ़ करें",
+    "itemsAvailable": "{count} आइटम उपलब्ध हैं",
+    "itemAvailable": "{count} आइटम उपलब्ध है",
+    "gridView": "ग्रिड व्यू",
+    "listView": "लिस्ट व्यू"
   },
   "cart": {
     "title": "मेरा कार्ट",
