@@ -1,0 +1,61 @@
+{
+  "_comment": "Remote config for UrbanFood home screen. Host this file on GitHub raw and set EXPO_PUBLIC_REMOTE_CONFIG_URL in .env",
+  "version": "1.0.0",
+
+  "bannerCarousel": {
+    "enabled": true,
+    "autoScrollInterval": 3000,
+    "images": [
+      {
+        "id": "banner_1",
+        "localAsset": "restraunt_1",
+        "show": true
+      },
+      {
+        "id": "banner_2",
+        "localAsset": "restraunt_2",
+        "show": true
+      },
+      {
+        "id": "banner_3",
+        "localAsset": "restraunt_3",
+        "show": true
+      },
+      {
+        "id": "banner_4",
+        "localAsset": "restraunt_4",
+        "show": true
+      }
+    ]
+  },
+
+  "offerCarousel": {
+    "enabled": true,
+    "autoScrollInterval": 3500,
+    "items": [
+      {
+        "id": "offer_1",
+        "localAsset": "offer_carousel_1",
+        "show": true
+      },
+      {
+        "id": "offer_2",
+        "localAsset": "offer_carousel_2",
+        "show": true
+      },
+      {
+        "id": "offer_3",
+        "localAsset": "offer_carousel_3",
+        "show": true
+      }
+    ]
+  },
+
+  "bottomBanner": {
+    "enabled": true,
+    "id": "bottom_banner",
+    "localAsset": "offer_banner",
+    "actionType": "none",
+    "actionPayload": ""
+  }
+}
